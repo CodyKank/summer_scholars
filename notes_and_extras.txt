@@ -1,0 +1,9 @@
+If you have questions about your Rpi you can contact Cody Kankel (ckankel@nd.edu)
+
+Some extras mentioned during the presentation today:
+
+https://retropie.org.uk/ - RetroPie: Creating a retro game console emulating most "older" consoles
+
+https://octoprint.org/ - OctoPrint: A nice UI surrounding a 3D printer
+
+https://pi-hole.net/ - Pi-Hole: A raspberry Pi "blackhole" for ads (nice adblocker) 
